@@ -1,4 +1,4 @@
-var list = [{
+{
     "name": "卡夫卡",
     "artist": "2004 - 被禁忌的游戏",
     "source": "https://cdn.jsdelivr.net/gh/urzone/lizhi/audio/2004 - 被禁忌的游戏/卡夫卡.mp3",
@@ -657,13 +657,6 @@ var list = [{
     "cover": "https://cdn.jsdelivr.net/gh/urzone/lizhi/audio/Live%20-%202014%20-%20勾三搭四/cover.jpg",
     "favorited": false
 }, {
-    "name": "你的早晨&天空之城&暧昧",
-    "artist": "Live - 2014 - 勾三搭四",
-    "source": "https://cdn.jsdelivr.net/gh/urzone/lizhi/audio/Live - 2014 - 勾三搭四/你的早晨&天空之城&暧昧.mp3",
-    "url": "https://cdn.jsdelivr.net/gh/urzone/lizhi/audio/Live - 2014 - 勾三搭四/你的早晨&天空之城&暧昧.mp3",
-    "cover": "https://cdn.jsdelivr.net/gh/urzone/lizhi/audio/Live%20-%202014%20-%20勾三搭四/cover.jpg",
-    "favorited": false
-}, {
     "name": "和你在一起",
     "artist": "Live - 2014 - 勾三搭四",
     "source": "https://cdn.jsdelivr.net/gh/urzone/lizhi/audio/Live - 2014 - 勾三搭四/和你在一起.mp3",
@@ -717,13 +710,6 @@ var list = [{
     "artist": "Live - 2014 - 勾三搭四",
     "source": "https://cdn.jsdelivr.net/gh/urzone/lizhi/audio/Live - 2014 - 勾三搭四/来了.mp3",
     "url": "https://cdn.jsdelivr.net/gh/urzone/lizhi/audio/Live - 2014 - 勾三搭四/来了.mp3",
-    "cover": "https://cdn.jsdelivr.net/gh/urzone/lizhi/audio/Live%20-%202014%20-%20勾三搭四/cover.jpg",
-    "favorited": false
-}, {
-    "name": "杭州&我们不能失去信仰",
-    "artist": "Live - 2014 - 勾三搭四",
-    "source": "https://cdn.jsdelivr.net/gh/urzone/lizhi/audio/Live - 2014 - 勾三搭四/杭州&我们不能失去信仰.mp3",
-    "url": "https://cdn.jsdelivr.net/gh/urzone/lizhi/audio/Live - 2014 - 勾三搭四/杭州&我们不能失去信仰.mp3",
     "cover": "https://cdn.jsdelivr.net/gh/urzone/lizhi/audio/Live%20-%202014%20-%20勾三搭四/cover.jpg",
     "favorited": false
 }, {
@@ -790,13 +776,6 @@ var list = [{
     "cover": "https://cdn.jsdelivr.net/gh/urzone/lizhi/audio/Live%20-%202014%20-%20勾三搭四/cover.jpg",
     "favorited": false
 }, {
-    "name": "下雨&董卓瑶&忽然",
-    "artist": "Live - 2015 - i O",
-    "source": "https://cdn.jsdelivr.net/gh/urzone/lizhi/audio/Live - 2015 - i O/下雨&董卓瑶&忽然.mp3",
-    "url": "https://cdn.jsdelivr.net/gh/urzone/lizhi/audio/Live - 2015 - i O/下雨&董卓瑶&忽然.mp3",
-    "cover": "https://cdn.jsdelivr.net/gh/urzone/lizhi/audio/Live%20-%202015%20-%20i%20O/cover.jpg",
-    "favorited": false
-}, {
     "name": "墙上的向日葵",
     "artist": "Live - 2015 - i O",
     "source": "https://cdn.jsdelivr.net/gh/urzone/lizhi/audio/Live - 2015 - i O/墙上的向日葵.mp3",
@@ -860,13 +839,6 @@ var list = [{
     "cover": "https://cdn.jsdelivr.net/gh/urzone/lizhi/audio/Live%20-%202015%20-%20i%20O/cover.jpg",
     "favorited": false
 }, {
-    "name": "鸵鸟&天空之城&我们不能失去信仰",
-    "artist": "Live - 2015 - i O",
-    "source": "https://cdn.jsdelivr.net/gh/urzone/lizhi/audio/Live - 2015 - i O/鸵鸟&天空之城&我们不能失去信仰.mp3",
-    "url": "https://cdn.jsdelivr.net/gh/urzone/lizhi/audio/Live - 2015 - i O/鸵鸟&天空之城&我们不能失去信仰.mp3",
-    "cover": "https://cdn.jsdelivr.net/gh/urzone/lizhi/audio/Live%20-%202015%20-%20i%20O/cover.jpg",
-    "favorited": false
-}, {
     "name": "你的早晨",
     "artist": "Live - 2015 - 动静",
     "source": "https://cdn.jsdelivr.net/gh/urzone/lizhi/audio/Live - 2015 - 动静/你的早晨.mp3",
@@ -899,13 +871,6 @@ var list = [{
     "artist": "Live - 2015 - 动静",
     "source": "https://cdn.jsdelivr.net/gh/urzone/lizhi/audio/Live - 2015 - 动静/墙上的向日葵.mp3",
     "url": "https://cdn.jsdelivr.net/gh/urzone/lizhi/audio/Live - 2015 - 动静/墙上的向日葵.mp3",
-    "cover": "https://cdn.jsdelivr.net/gh/urzone/lizhi/audio/Live%20-%202015%20-%20动静/cover.jpg",
-    "favorited": false
-}, {
-    "name": "好威武支持有希望+倒影+青春+人民币",
-    "artist": "Live - 2015 - 动静",
-    "source": "https://cdn.jsdelivr.net/gh/urzone/lizhi/audio/Live - 2015 - 动静/好威武支持有希望+倒影+青春+人民币.mp3",
-    "url": "https://cdn.jsdelivr.net/gh/urzone/lizhi/audio/Live - 2015 - 动静/好威武支持有希望+倒影+青春+人民币.mp3",
     "cover": "https://cdn.jsdelivr.net/gh/urzone/lizhi/audio/Live%20-%202015%20-%20动静/cover.jpg",
     "favorited": false
 }, {
@@ -1132,4 +1097,4 @@ var list = [{
     "url": "https://cdn.jsdelivr.net/gh/urzone/lizhi/audio/Live - 2019 - 洗心革面/黑色信封.mp3",
     "cover": "https://cdn.jsdelivr.net/gh/urzone/lizhi/audio/Live%20-%202019%20-%20洗心革面/cover.jpg",
     "favorited": false
-}]
+}

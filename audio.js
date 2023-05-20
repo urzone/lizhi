@@ -6,7 +6,7 @@ glob("./audio/**/*.{mp3,wav,flac}", {}, function (er, files) {
   let download = ''
   files.forEach(item => {
     let fileInfo = fs.statSync(item)
-    if(fileInfo.size/(1024*1024) < 30) {    // 小于30M
+    if(fileInfo.size/(1024*1024) < 20) {    // 小于 20 M
       let arr = item.split('/')
       result.push({
         name: arr[3].replace(/\.(mp3|flac|wav)$/g, ''),   // Extract the file name from the item path by removing the file extension
@@ -26,7 +26,7 @@ glob("./audio/**/*.{mp3,wav,flac}", {}, function (er, files) {
       })
       download += `https://cdn.jsdelivr.net/gh/urzone/lizhi${item.slice(1)}\n`
     } else {
-      console.log('文件大于30M：', item)
+      console.log('文件大于 20 M：', item)
     }
   })
   fs.writeFileSync('./list.min.js', "var list = " + JSON.stringify(result))
