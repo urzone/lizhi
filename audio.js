@@ -29,6 +29,6 @@ glob("./audio/**/*.{mp3,wav,flac}", {}, function (er, files) {
       console.log('文件大于 20 M：', item)
     }
   })
-  fs.writeFileSync('./list.min.js', "var list = " + JSON.stringify(result))
-  fs.writeFileSync('./download.txt', download)
+  fs.writeFileSync('./audio/list.min.js', "var list = " + JSON.stringify(result))
+  fs.writeFileSync('./audio/download.txt', download)
 })
